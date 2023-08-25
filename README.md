@@ -4,4 +4,4 @@ I saved my work on my final capstone to a thumb drive and have uploaded it to th
 
 One of my team members, Brennan Sheehan has added it to AWS so it's alive on the web! I'm currently adding updates for mobile and other functionalities from a forked repo of his. Below is the link to the active site, database and fronted hosted on AWS (We are refactoring our project structure which has led to bugs in the like functionality which we're currently working on as well)
 
-http://brewery-finder-front.s3-website-us-east-1.amazonaws.com/
+http://brewerybeerbuddy.com/
